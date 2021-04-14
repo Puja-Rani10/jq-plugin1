@@ -1,0 +1,28 @@
+span{
+	font-size: 30px;
+
+}
+.box{
+	min-height: 100px;
+}
+.box1{
+	background-color:  purple;
+}
+.box2{
+	background-color:  pink;
+}
+.box3{
+	background-color:  red; 
+}
+
+
+
+#text3
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #d81c82;
+}
+
